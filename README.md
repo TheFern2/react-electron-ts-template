@@ -1,3 +1,23 @@
+# react-electron-template
+
+This is a very minimal setup. It is an app created with CRA (create react app) cli. Then electron, and electron-builder were setup afterwards.
+
+### `npm run electron-dev`
+
+This will launch electron and react together with no browser.
+
+### `npm run preelectron-pack`
+
+Builds react project, same as `npm run build`
+
+### `npm run electron-pack`
+
+This will build electron dist. I have linux configured, but more to come.
+
+################################################################################################
+
+Auto-generated CRA
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
